@@ -14,7 +14,7 @@ A Little cat in github
 
 🔭 &nbsp;I'm currently working on **Bisnor**  
 🌱 &nbsp;I'm currently learning **nothing**  
-😄 &nbsp;Pronouns: **her**  
+😄 &nbsp;Pronouns: **he**  
 ⚡ &nbsp;Fun fact: **I Use Gemini! WOW**
 
 ### 🛠️ Tech Stack
